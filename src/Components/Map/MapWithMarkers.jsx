@@ -14,7 +14,8 @@ const MapWithMarkers = ({ data }) => {
 
   <Marker
   key={data.id} position={[data.latitude, data.longitude]}>
-    <Popup>{data.name}</Popup>
+    <Popup className='uppercase'>{data.name}<br/><br />
+    {data.brewery_type}</Popup>
     
   </Marker>
 
