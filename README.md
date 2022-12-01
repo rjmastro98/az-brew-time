@@ -1,4 +1,4 @@
-# AZ Good Brews (https://638899c10d905f000928507b--stately-treacle-602ad5.netlify.app/)
+# AZ Good Brews (https://stately-treacle-602ad5.netlify.app)
 
 This is a simple application for displaying all of the brewerys in AZ on a map and in a directory. 
 
