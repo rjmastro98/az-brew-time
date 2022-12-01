@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Map/Map.css'
-import { MapContainer, TileLayer, useMap, Marker, Popup } from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 
 const MapWithMarkers = ({ data }) => {
   
