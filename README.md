@@ -8,7 +8,7 @@ This project is still currently in work.
 
 ## API Documentation
 
-https://documenter.getpostman.com/view/12120504/UVXkoao8
+https://www.openbrewerydb.org/
 
 ## Screenshots
 
